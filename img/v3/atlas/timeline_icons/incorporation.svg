@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80px" height="80px">
+  <g id="Home-(v2)" fill="none" fill-rule="evenodd">
+    <g id="Artboard-2">
+      <rect id="Shape" width="30" height="2" x="27" y="55" fill="#E5A03E" rx="1"/>
+      <path id="Shape" stroke="#E5A03E" stroke-width="2" d="M18 53l5 5" stroke-linecap="round"/>
+      <path id="Shape" stroke="#E5A03E" stroke-width="2" d="M23 53l-5 5" stroke-linecap="round"/>
+      <path id="Shape" stroke="#E5A03E" stroke-width="2" d="M52.21 25.73s5.2 3.76.9 8.07c-4.3 4.31-7.79 3.92-10.86 6.99-3.07 3.07-1.5 6.37-1.5 6.37" stroke-linecap="round"/>
+      <path id="Shape" fill="#FDD760" d="M35.73 19.23a4 4 0 0 1 8 0v29h-8v-29zm4 38l-4-9h8l-4 9z" transform="rotate(45 39.732 36.232)"/>
+      <rect id="Shape" width="8" height="2" x="27.95" y="43.01" fill="#E5A03E" transform="rotate(45 31.954 44.01)"/>
+      <rect id="Shape" width="8" height="2" x="44.22" y="26.75" fill="#E5A03E" transform="rotate(45 48.218 27.747)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,1 @@
+$(function(){var e=1;typeof window["devicePixelRatio"]!="undefined"&&(e=window.devicePixelRatio),$("div.map-image img").each(function(){var t=$(this);t.attr("src",t.attr("src")+"&scale="+e)})});
