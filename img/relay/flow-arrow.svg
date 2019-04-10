@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="17px" viewBox="0 0 18 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard" sketch:type="MSArtboardGroup" transform="translate(-440.000000, -1975.000000)" fill="#FFFFFF">
+            <g id="Flow" sketch:type="MSLayerGroup" transform="translate(0.000000, 1585.000000)">
+                <path d="M457.592,397.52775 L450.376,390.40275 C449.832,389.86575 448.951,389.86575 448.408,390.40275 C447.864,390.93875 447.864,391.80875 448.408,392.34575 L453.121,396.99975 L441.5,396.99975 C440.672,396.99975 440,397.67175 440,398.49975 C440,399.32775 440.672,399.99975 441.5,399.99975 L453.121,399.99975 L448.408,404.65375 C447.864,405.19075 447.864,406.06075 448.408,406.59675 C448.68,406.86575 449.036,406.99975 449.392,406.99975 C449.748,406.99975 450.104,406.86575 450.376,406.59675 L457.592,399.47175 C458.136,398.93475 458.136,398.06475 457.592,397.52775" id="Arrow" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
