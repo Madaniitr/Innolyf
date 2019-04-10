@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="80px" height="80px">
-  <g id="Home-(v2)" fill="none" fill-rule="evenodd">
-    <g id="Artboard-2">
-      <path id="Shape" fill="#E5A03E" d="M47 57.08h5.96a2 2 0 0 0 2-2V23a2 2 0 0 0-2-1.99H30.37a2 2 0 0 0-2 2v4H47v30.08z"/>
-      <path id="Shape" fill="#FDD760" d="M23 27c0-1.1.9-2 2-2h22a2 2 0 0 1 2 2v32a2 2 0 0 1-2 2H25a2 2 0 0 1-2-2V27zm4 14a1 1 0 0 0 1 1h16a1 1 0 0 0 1-1 1 1 0 0 0-1-1H28a1 1 0 0 0-1 1zm0 5a1 1 0 0 0 1 1h16a1 1 0 0 0 1-1 1 1 0 0 0-1-1H28a1 1 0 0 0-1 1zm0 5a1 1 0 0 0 1 1h10a1 1 0 1 0 0-2H28a1 1 0 0 0-1 1zm14 0a1 1 0 0 0 1 1h2a1 1 0 1 0 0-2h-2a1 1 0 0 0-1 1z"/>
-      <path id="Shape" fill="#E5A03E" d="M27 56a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1 1 1 0 0 1-1 1H28a1 1 0 0 1-1-1zm13-25a1 1 0 0 1 1-1h3a1 1 0 0 1 1 1 1 1 0 0 1-1 1h-3a1 1 0 0 1-1-1zm-13 0a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1 1 1 0 0 1-1 1h-6a1 1 0 0 1-1-1z"/>
-    </g>
-  </g>
-</svg>

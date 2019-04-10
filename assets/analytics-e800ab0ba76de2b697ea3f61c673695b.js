@@ -1,1 +1,0 @@
-(function(){var e=readConfig("analytics_config");"Analytics"in window&&Analytics.configure(e)})();
